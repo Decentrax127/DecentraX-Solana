@@ -11,3 +11,4 @@ Decentralized coin project on Solana using Bubble.io.
 
 ## Social Media
 - X : https://x.com/dcxofficial_
+- Telegram : https://t.me/+zQjIHi3NXlpkN2Nl
