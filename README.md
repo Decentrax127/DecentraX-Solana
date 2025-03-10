@@ -8,3 +8,6 @@ Decentralized coin project on Solana using Bubble.io.
 
 ## Website
 - Visit us at [decentrax.meme](https://decentrax.meme)
+
+## Social Media
+- X : https://x.com/dcxofficial_
