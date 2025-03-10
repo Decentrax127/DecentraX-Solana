@@ -1,0 +1,14 @@
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "method": "getTokenAccountsByOwner",
+  "params": [
+    "<wallet_input's value>",
+    {
+      "mint": "4uk38tSN2rGhW7rygqxGk5R6fWLieFiTZoBZXS3ULPXc"
+    },
+    {
+      "encoding": "jsonParsed"
+    }
+  ]
+}
